@@ -13,7 +13,7 @@
 
 #### Dowload
 
-    https://github.com/Noutzhz/Web-Tools.git
+    git clone https://github.com/Noutzhz/Web-Tools.git
 
     cd Web-tools
 
